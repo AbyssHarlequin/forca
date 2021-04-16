@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i47BFzZuCEdKASeCFcWoEKWz8Pd/bFvMXwOzA7RRovnc0AIh45XwCjKBleLRcJhfp3O9VENqT5nWJ2AoflBmkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felip\\Documents\\Jogos Digitais - UNICSUL\\1º Semestre\\Plataforma Para Jogos\\forca\\forca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

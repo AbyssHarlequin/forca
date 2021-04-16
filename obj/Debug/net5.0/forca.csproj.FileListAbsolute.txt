@@ -1,0 +1,16 @@
+C:\Users\felip\Documents\Jogos Digitais - UNICSUL\1º Semestre\Plataforma Para Jogos\forca\bin\Debug\net5.0\forca.exe
+C:\Users\felip\Documents\Jogos Digitais - UNICSUL\1º Semestre\Plataforma Para Jogos\forca\bin\Debug\net5.0\forca.deps.json
+C:\Users\felip\Documents\Jogos Digitais - UNICSUL\1º Semestre\Plataforma Para Jogos\forca\bin\Debug\net5.0\forca.runtimeconfig.json
+C:\Users\felip\Documents\Jogos Digitais - UNICSUL\1º Semestre\Plataforma Para Jogos\forca\bin\Debug\net5.0\forca.runtimeconfig.dev.json
+C:\Users\felip\Documents\Jogos Digitais - UNICSUL\1º Semestre\Plataforma Para Jogos\forca\bin\Debug\net5.0\forca.dll
+C:\Users\felip\Documents\Jogos Digitais - UNICSUL\1º Semestre\Plataforma Para Jogos\forca\bin\Debug\net5.0\ref\forca.dll
+C:\Users\felip\Documents\Jogos Digitais - UNICSUL\1º Semestre\Plataforma Para Jogos\forca\bin\Debug\net5.0\forca.pdb
+C:\Users\felip\Documents\Jogos Digitais - UNICSUL\1º Semestre\Plataforma Para Jogos\forca\obj\Debug\net5.0\forca.csprojAssemblyReference.cache
+C:\Users\felip\Documents\Jogos Digitais - UNICSUL\1º Semestre\Plataforma Para Jogos\forca\obj\Debug\net5.0\forca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\Jogos Digitais - UNICSUL\1º Semestre\Plataforma Para Jogos\forca\obj\Debug\net5.0\forca.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\Jogos Digitais - UNICSUL\1º Semestre\Plataforma Para Jogos\forca\obj\Debug\net5.0\forca.AssemblyInfo.cs
+C:\Users\felip\Documents\Jogos Digitais - UNICSUL\1º Semestre\Plataforma Para Jogos\forca\obj\Debug\net5.0\forca.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\Jogos Digitais - UNICSUL\1º Semestre\Plataforma Para Jogos\forca\obj\Debug\net5.0\forca.dll
+C:\Users\felip\Documents\Jogos Digitais - UNICSUL\1º Semestre\Plataforma Para Jogos\forca\obj\Debug\net5.0\ref\forca.dll
+C:\Users\felip\Documents\Jogos Digitais - UNICSUL\1º Semestre\Plataforma Para Jogos\forca\obj\Debug\net5.0\forca.pdb
+C:\Users\felip\Documents\Jogos Digitais - UNICSUL\1º Semestre\Plataforma Para Jogos\forca\obj\Debug\net5.0\forca.genruntimeconfig.cache
